@@ -1,0 +1,312 @@
+{
+  "kzz": {
+    "variable": "kzz",
+    "class": "character",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 15832,
+    "total_missing": 0,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [10398, 9938, 9734, 10029, 10284, 10178, 10386, 10557, 10390],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": []
+  },
+  "kzk": {
+    "variable": "kzk",
+    "class": "character",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 16282,
+    "total_missing": 41044,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611245, 592111, 531562, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [223, 293, 40528, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0.0004, 0.0005, 0.0708, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [10788, 10325, 10099, 10402, 10660, 10544, 10750, 10927, 10743],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": []
+  },
+  "PJA": {
+    "variable": "PJA",
+    "class": "integer",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 9,
+    "total_missing": 0,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": {
+      "2014": 611468,
+      "2015": 592404,
+      "2016": 572090,
+      "2017": 577059,
+      "2018": 583107,
+      "2019": 579321,
+      "2020": 585895,
+      "2021": 607427,
+      "2022": 584398
+    }
+  },
+  "PMO": {
+    "variable": "PMO",
+    "class": "integer",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 12,
+    "total_missing": 0,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [12, 12, 12, 12, 12, 12, 12, 12, 12],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": {
+      "1": 420448,
+      "2": 432090,
+      "3": 442841,
+      "4": 442414,
+      "5": 443756,
+      "6": 446242,
+      "7": 445664,
+      "8": 441286,
+      "9": 446318,
+      "10": 445230,
+      "11": 444661,
+      "12": 442219
+    }
+  },
+  "PCODE": {
+    "variable": "PCODE",
+    "class": "integer64",
+    "semantic_type": "other",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 4347,
+    "total_missing": 0,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [3265, 3263, 3255, 3194, 3210, 3230, 3240, 3246, 3073],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": []
+  },
+  "PART": {
+    "variable": "PART",
+    "class": "integer",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 7,
+    "total_missing": 0,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": {
+      "1": 2045027,
+      "2": 4133,
+      "3": 5256,
+      "4": 35435,
+      "5": 3124517,
+      "6": 5230,
+      "7": 73571
+    }
+  },
+  "PEH1": {
+    "variable": "PEH1",
+    "class": "integer",
+    "semantic_type": "other",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 32,
+    "total_missing": 68,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611448, 592392, 572067, 577046, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [20, 12, 23, 13, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [32, 31, 31, 31, 30, 28, 28, 28, 29],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": {
+      "mean": 2.9205,
+      "sd": 8.0294,
+      "m_min": 0,
+      "m_p25": 0,
+      "m_p50": 0,
+      "m_p75": 1.3557,
+      "m_p90": 3.831,
+      "m_max": 20.0692
+    },
+    "date_summary": [],
+    "level_counts": []
+  },
+  "PME1": {
+    "variable": "PME1",
+    "class": "integer",
+    "semantic_type": "other",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 283423,
+    "total_missing": 0,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [56002, 54922, 53734, 55892, 56166, 55957, 54841, 56616, 55165],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": {
+      "mean": 311483.9843,
+      "sd": 7908650.5844,
+      "m_min": 0,
+      "m_p25": 0,
+      "m_p50": 0,
+      "m_p75": 289.7334,
+      "m_p90": 9084.9177,
+      "m_max": 3100487.5365
+    },
+    "date_summary": [],
+    "level_counts": []
+  },
+  "PEH2": {
+    "variable": "PEH2",
+    "class": "integer",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 9,
+    "total_missing": 5136192,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [18225, 17281, 17802, 17394, 17764, 17420, 17523, 17513, 16055],
+    "missing_per_year": [593243, 575123, 554288, 559665, 565343, 561901, 568372, 589914, 568343],
+    "missing_rate_per_year": [0.9702, 0.9708, 0.9689, 0.9699, 0.9695, 0.9699, 0.9701, 0.9712, 0.9725],
+    "unique_values_per_year": [9, 9, 9, 9, 8, 8, 8, 8, 8],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": {
+      "0": 68,
+      "1": 3495,
+      "2": 1700,
+      "4": 7082,
+      "5": 15981,
+      "11": 18670,
+      "30": 1338,
+      "37": 28208,
+      "50": 80435
+    }
+  },
+  "PME2": {
+    "variable": "PME2",
+    "class": "integer",
+    "semantic_type": "other",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 21999,
+    "total_missing": 0,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [5216, 5062, 5107, 5107, 5265, 5243, 5286, 5445, 4827],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": {
+      "mean": 3842.2503,
+      "sd": 389850.2988,
+      "m_min": 0,
+      "m_p25": 0,
+      "m_p50": 0,
+      "m_p75": 0,
+      "m_p90": 0,
+      "m_max": 38422.4956
+    },
+    "date_summary": [],
+    "level_counts": []
+  },
+  "PWERT": {
+    "variable": "PWERT",
+    "class": "integer64",
+    "semantic_type": "other",
+    "label": [
+      {}
+    ],
+    "total_rows": 5293169,
+    "total_unique_values": 817995,
+    "total_missing": 0,
+    "total_rows_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "non_missing_per_year": [611468, 592404, 572090, 577059, 583107, 579321, 585895, 607427, 584398],
+    "missing_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "unique_values_per_year": [38395, 38362, 38712, 142999, 229978, 231935, 230143, 239835, 242942],
+    "first_year": 2014,
+    "last_year": 2022,
+    "years_available": ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": []
+  }
+}

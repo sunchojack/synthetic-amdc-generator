@@ -1,0 +1,25 @@
+Third-party references and scope
+
+This repository contains generator code for synthetic AMDC-shaped data. It contains no AMDC
+source data, confidential observations, prepared AMDC databases, or secure-environment extracts.
+
+The JRC and DERA publications referenced by this repository are not included. They are supplied
+separately by the project owner. Their use remains subject to the rights and terms of their
+respective publishers.
+
+JRC reference:
+Trade codes of non-food, non-fuel raw materials and their products,
+JRC136041, Publications Office of the European Union, 2023.
+See references/jrc/SOURCE_URL.txt.
+The JRC publication includes a CC BY 4.0 reuse notice for covered material. Third-party material
+identified in the publication, including the cover image, is not automatically covered by that
+licence.
+
+DERA reference:
+Rohstoffhandel und Wertschöpfung,
+DERA Rohstoffinformationen 66, 2026.
+See references/dera/SOURCE_URL.txt.
+No redistribution permission is asserted for the DERA publication by this repository.
+
+No licence is granted to the repository code by this notice. The separately supplied PDFs are not
+relicensed by this repository.

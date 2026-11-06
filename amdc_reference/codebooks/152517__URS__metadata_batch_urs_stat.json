@@ -1,0 +1,135 @@
+{
+  "kzr": {
+    "variable": "kzr",
+    "class": "character",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 2441317,
+    "total_unique_values": 834511,
+    "total_missing": 0,
+    "total_rows_per_year": [494556, 631658, 662269, 652834],
+    "non_missing_per_year": [494556, 631658, 662269, 652834],
+    "missing_per_year": [0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0],
+    "unique_values_per_year": [494556, 631658, 662269, 652834],
+    "first_year": 2018,
+    "last_year": 2021,
+    "years_available": ["2018", "2019", "2020", "2021"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": []
+  },
+  "kzu": {
+    "variable": "kzu",
+    "class": "character",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 2441317,
+    "total_unique_values": 796683,
+    "total_missing": 0,
+    "total_rows_per_year": [494556, 631658, 662269, 652834],
+    "non_missing_per_year": [494556, 631658, 662269, 652834],
+    "missing_per_year": [0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0],
+    "unique_values_per_year": [465286, 603501, 633689, 619354],
+    "first_year": 2018,
+    "last_year": 2021,
+    "years_available": ["2018", "2019", "2020", "2021"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": []
+  },
+  "UNT_IS": {
+    "variable": "UNT_IS",
+    "class": "numeric",
+    "semantic_type": "continuous",
+    "label": [
+      {}
+    ],
+    "total_rows": 2441317,
+    "total_unique_values": 15,
+    "total_missing": 27174,
+    "total_rows_per_year": [494556, 631658, 662269, 652834],
+    "non_missing_per_year": [491548, 629672, 652791, 640132],
+    "missing_per_year": [3008, 1986, 9478, 12702],
+    "missing_rate_per_year": [0.0061, 0.0031, 0.0143, 0.0195],
+    "unique_values_per_year": [14, 15, 14, 14],
+    "first_year": 2018,
+    "last_year": 2021,
+    "years_available": ["2018", "2019", "2020", "2021"],
+    "numeric_summary": {
+      "mean": 31.7154,
+      "sd": 150.8892,
+      "m_min": 10.9999,
+      "m_p25": 11,
+      "m_p50": 13.3552,
+      "m_p75": 14,
+      "m_p90": 14,
+      "m_max": 200.2657
+    },
+    "date_summary": [],
+    "level_counts": []
+  },
+  "UNT_OENACE": {
+    "variable": "UNT_OENACE",
+    "class": "integer",
+    "semantic_type": "other",
+    "label": [
+      {}
+    ],
+    "total_rows": 2441317,
+    "total_unique_values": 668,
+    "total_missing": 444,
+    "total_rows_per_year": [494556, 631658, 662269, 652834],
+    "non_missing_per_year": [494550, 631575, 662066, 652682],
+    "missing_per_year": [6, 83, 203, 152],
+    "missing_rate_per_year": [0, 0.0001, 0.0003, 0.0002],
+    "unique_values_per_year": [655, 658, 660, 659],
+    "first_year": 2018,
+    "last_year": 2021,
+    "years_available": ["2018", "2019", "2020", "2021"],
+    "numeric_summary": {
+      "mean": 20065560.1173,
+      "sd": 20340.0885,
+      "m_min": 20030949.9918,
+      "m_p25": 20039813.851,
+      "m_p50": 20056675.4102,
+      "m_p75": 20075248.9039,
+      "m_p90": 20087496.4233,
+      "m_max": 20095011.0107
+    },
+    "date_summary": [],
+    "level_counts": []
+  },
+  "JAHR": {
+    "variable": "JAHR",
+    "class": "integer",
+    "semantic_type": "categorical",
+    "label": [
+      {}
+    ],
+    "total_rows": 2441317,
+    "total_unique_values": 4,
+    "total_missing": 0,
+    "total_rows_per_year": [494556, 631658, 662269, 652834],
+    "non_missing_per_year": [494556, 631658, 662269, 652834],
+    "missing_per_year": [0, 0, 0, 0],
+    "missing_rate_per_year": [0, 0, 0, 0],
+    "unique_values_per_year": [1, 1, 1, 1],
+    "first_year": 2018,
+    "last_year": 2021,
+    "years_available": ["2018", "2019", "2020", "2021"],
+    "numeric_summary": [],
+    "date_summary": [],
+    "level_counts": {
+      "2018": 494556,
+      "2019": 631658,
+      "2020": 662269,
+      "2021": 652834
+    }
+  }
+}

@@ -1,0 +1,5 @@
+Official source:
+https://publications.jrc.ec.europa.eu/repository/handle/JRC136041
+
+Expected local filename:
+amdc_reference/codebooks/JRC136041_01__crm_codes_CN8_AND_PRODCOM.pdf

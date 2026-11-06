@@ -1,0 +1,9 @@
+out/
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+
+# Supplied externally; not committed.
+amdc_reference/codebooks/JRC136041_01__crm_codes_CN8_AND_PRODCOM.pdf
+amdc_reference/codebooks/66_Rohstoffhandel und Wertschöpfung.pdf

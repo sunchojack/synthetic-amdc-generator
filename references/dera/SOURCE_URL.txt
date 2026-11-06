@@ -1,0 +1,5 @@
+Official source:
+https://www.deutsche-rohstoffagentur.de/DERA/SharedDocs/Downloads/Rohstoffinformationen/rohstoffinformationen-66.html?nn=811216
+
+Expected local filename:
+amdc_reference/codebooks/66_Rohstoffhandel und Wertschöpfung.pdf
